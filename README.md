@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Charles Jovans</h1>
+<h3 align="center">Developer | Data Analyst  | Marketeer</h3>
 # 💫 About Me:
 🔭 I’m currently working on ChatBot System & Food Ordering System<br>👯 I’m looking to collaborate on Data Science/Analytics projects <br>🤝 I’m looking for help with Artificial Intelligence systems<br>🌱 I’m currently learning Software Develpoment with python and Embedded Systems<br>💬 Ask me about Python in Data Analysis and software Development<br>⚡ Fun fact I can visualize anything
 
@@ -13,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuckJovans&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChuckJovans&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ChuckJovans&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
