@@ -1,11 +1,10 @@
 # <h1 align="center">Hi 👋, I'm Charles Jovans</h1>
-# <h3 align="center">Developer | Data Analyst  | Marketeer</h3>
+# <h3 align="center">Data Scientist | Data Analyst  | Developer  </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on ChatBot System & Food Ordering System<br>
-👯 I’m looking to collaborate on Data Science/Analytics projects<br>
-🤝 I’m looking for help with Artificial Intelligence systems<br>
-🌱 I’m currently learning Software Develpoment with python and Embedded Systems<br>
+🔭 I’m currently working on Data Science, AI/ML and Web development projects<br>
+👯 I’m looking to collaborate on Data Science/Analytics projects <br>
+🌱 I’m currently learning Big Data Analytics, Software Develpoment with python and Embedded Systems<br>
 💬 Ask me about Python in Data Analysis and software Development<br>
 
 
